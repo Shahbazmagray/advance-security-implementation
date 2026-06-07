@@ -1,0 +1,18 @@
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Login attempt from shahbaz@gmail.com"}
+{"level":"warn","message":"Failed login attempt (user not found): shahbaz@gmail.com"}
+{"level":"info","message":"Login attempt from shahbaz@gmail.com"}
+{"level":"warn","message":"Failed login attempt (user not found): shahbaz@gmail.com"}
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Application started"}
+{"level":"info","message":"Login attempt from shahbaz@gmail.com"}
+{"level":"warn","message":"Failed login attempt (user not found): shahbaz@gmail.com"}
+{"level":"info","message":"Login attempt from shahbaz@gmail.com"}
+{"level":"info","message":"Successful login for shahbaz@gmail.com"}
+{"level":"info","message":"Login attempt from kashmir@gmail.com"}
+{"level":"warn","message":"Failed login attempt (user not found): kashmir@gmail.com"}
